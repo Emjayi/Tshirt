@@ -14,6 +14,6 @@ Website features:
 - Download the resulting t-shirt model image
 - Responsiveness across all devices
 
-//Client --> <code>npm i</code> --> <code>npm run dev</code> --> Enjoy
+Client --> <code>npm i</code> --> <code>npm run dev</code> --> Enjoy
 
 
