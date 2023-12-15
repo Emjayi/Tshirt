@@ -1,5 +1,5 @@
 # 3D Three.js website
-
+##Live Demo: <a href="https://tshirt.iran.liara.run">Go to link</a>
 ## Introduction
 
 Tech stocks:
@@ -13,5 +13,7 @@ Website features:
 - Generate and use images through DALLE AI
 - Download the resulting t-shirt model image
 - Responsiveness across all devices
+
+Client --> <code>npm i</code> --> <code>npm run dev</code> --> Enjoy
 
 
